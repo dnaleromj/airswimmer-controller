@@ -1,0 +1,4 @@
+PCB for an airswimmer replacment
+
+Will have atmega32u4 uC + MPU-6050 in phase 1
+Cypress or Nordic or ? radio built in for Phase 2 to allow RC control.
